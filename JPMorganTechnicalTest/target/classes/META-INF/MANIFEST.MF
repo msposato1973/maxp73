@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: maxp
-Build-Jdk: 1.7.0_79
-Main-Class: com.mkyong.core.utils.App
-Created-By: Maven Integration for Eclipse
-
